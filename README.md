@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Project_Chinthe.png" alt="Project Chinthe" width="300">
+</p>
+
 # Project Chinthe — Censorship-Resistant Proxy Infrastructure
 
 A production-grade VPN infrastructure built to bypass state-level internet censorship in Myanmar, optimized for low-latency gaming and designed for horizontal scaling.
